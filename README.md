@@ -17,8 +17,8 @@ All timestamps are UTC (add 7 or 8 hours for Los Angeles).
 ## Requirements
 
 - Python 3
-- pip3 canvasapi
-- pip3 markdown
+- canvasapi
+- markdown
 
 ## Project Links
 
